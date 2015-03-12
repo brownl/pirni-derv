@@ -14,7 +14,7 @@ Much of the functionality of 'pirni-derv' is available in Pirni Pro, and is easi
 ### Overview
 derv is a collection of scripts for parsing captured network packets; specifically cookies, plain-text passwords, and URLs. derv uses Pirni to capture packets.
 
-Pirni (https://code.google.com/p/n1mda-dev/wiki/PirniUsageGuide) is a packet sniffing application used on iPhone and iPod Touch devices. Pirni is only available for iPhones and iPod Touches which have been [jailbroken](http://www.iphonedownloadblog.com/2009/10/11/jailbreak-iphone-blackra1n-tutorial/). Pirni is available through Cydia and Rock, and requires MobileTerminal to be executed.
+Pirni (https://code.google.com/p/n1mda-dev/wiki/PirniUsageGuide GitHub mirror https://github.com/brownl/pirni) is a packet sniffing application used on iPhone and iPod Touch devices. Pirni is only available for iPhones and iPod Touches which have been [jailbroken](http://www.iphonedownloadblog.com/2009/10/11/jailbreak-iphone-blackra1n-tutorial/). Pirni is available through Cydia and Rock, and requires MobileTerminal to be executed.
 
 Pirni and the derv scripts have been tested on iPhone 3GS and iPod Touch (2nd generation) running OS version 3.0, 3.1, and 3.1.2; should work for all versions of iPhone and iPod OSes that can install and run Mobile Terminal.
 
